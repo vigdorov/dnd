@@ -1,0 +1,8 @@
+/node_modules
+/dist
+/dist-view
+.vscode
+.idea
+/out
+/build
+.DS_Store
